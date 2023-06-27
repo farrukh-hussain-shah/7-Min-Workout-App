@@ -1,0 +1,82 @@
+1&2nd Lecture
+    First we Create Start Button And Set OnClickListener
+
+3rd Lecture
+Change the ActionBar > themes.xml >    <style name="Theme.7MinutesWorkoutApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+And in we learn about view binding(SEARCH) and we import the setting of view binding in gradle file
+
+4th Lecture
+in this lecture we learn that
+ How to Create a action bar and how to make back button to previous activity "when you need to learn from this lecture"
+
+ 5th Lecture
+ In this lecture we design a ui of For Counter we make circular_progress_bar which rotate when when start and
+ then we create circular_progress_gray because when time end its circular line become gray
+  and  item_circular_color_accent_background.xml for a small circular
+
+
+ 6th Lecture
+ DEMO Timer
+
+7th Lecture
+In this we create setRestProgressBar() function initializes and starts a countdown timer, updating the progress bar and text view on each tick of the timer, and displaying a toast message when the timer finishes.
+
+Lecture 8
+In this lecture, we modify the previous frame layout by setting the tools:visible and android:invisible attributes. We also change the names of each component. Similar to the previous lecture, we call the setupExerciseView() function when the previous timer finishes. This function has similar properties to setupRestView(), but in this case, the RestProgress is set to invisible, and the Exercise component is set to visible.
+
+9th/10th
+ lecture
+IN this lexture we make a class of ExercsieModel(contain) and a constant.kt(define properties) and make progress bar
+invisbel in exersise fun and make visibel in rest fun simple
+
+
+
+11th Lecture
+ in this video we can make the text of upcoming exercise a labal and a textview  and in textview do a method [currentExercise +1]
+ and make in visible in rest and invisible in Exercise that it
+
+
+12th Lecture
+Demo App Text-To-Speech
+
+13th
+    A Quiz of Text-To-Speech
+
+ 14th lecture
+ we implemented Text-To-Speech for Exercise-Activity and Speech-To-Current Exercise.
+During Rest-Progress, it speaks out the name of the next exercise (exerciseList[currentExercisePosition].getName()).
+When the exercise ends, it starts speaking out "You have to take rest for ten seconds" in Rest-Progress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_text_to_speach.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_text_to_speach.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_exercise.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_exercise_status.xml",
+        "source": "D:\\Downloads\\7MinutesWorkoutApp-135_Setting_up_the_ui\\app\\src\\main\\res\\layout\\item_exercise_status.xml"
+    }
+]

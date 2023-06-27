@@ -1,0 +1,18 @@
+eu/tutorials/a7_minutesworkoutapp/Splash.java
+ eu.tutorials.a7_minutesworkoutapp.Splash
+eu/tutorials/a7_minutesworkoutapp/BuildConfig.java
+ eu.tutorials.a7_minutesworkoutapp.BuildConfig
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivitySplashScreenBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivitySplashScreenBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityMainBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityMainBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityExerciseBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityExerciseBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivitySplashBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivitySplashBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityTextToSpeachBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityTextToSpeachBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ActivityResultBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ActivityResultBinding
+eu/tutorials/a7_minutesworkoutapp/databinding/ItemExerciseStatusBinding.java
+ eu.tutorials.a7_minutesworkoutapp.databinding.ItemExerciseStatusBinding

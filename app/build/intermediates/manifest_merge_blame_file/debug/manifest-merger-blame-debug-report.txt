@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.tutorials.a7_minutesworkoutapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <queries>
+13-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:7:5-11:15
+14        <intent>
+14-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:8:9-10:18
+15            <action android:name="android.intent.action.TTS_SERVICE" />
+15-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:9:13-72
+15-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:9:21-69
+16        </intent>
+17    </queries>
+18
+19    <application
+19-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:13:5-67:19
+20        android:allowBackup="true"
+20-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.6.0] C:\Users\Farrukh Hussain\.gradle\caches\transforms-3\edeb430ac0b0bea9c609d4daffe0d06e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/img_main_page"
+23-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:15:9-47
+24        android:label="@string/app_name"
+24-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:16:9-41
+25        android:roundIcon="@drawable/img_main_page"
+25-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:17:9-52
+26        android:supportsRtl="true"
+26-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.7MinutesWorkoutApp" >
+28-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:19:9-56
+29        <activity
+29-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:20:9-32:20
+30            android:name="eu.tutorials.a7_minutesworkoutapp.SplashScreenActivity"
+30-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:21:13-49
+31            android:exported="true" >
+31-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:22:13-36
+32            <intent-filter>
+32-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:24:13-28:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:25:17-69
+33-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:27:17-77
+35-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:27:27-74
+36            </intent-filter>
+37
+38            <meta-data
+38-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:29:13-31:36
+39                android:name="android.app.lib_name"
+39-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:30:17-52
+40                android:value="" />
+40-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:31:17-33
+41        </activity>
+42        <activity
+42-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:33:9-40:20
+43            android:name="eu.tutorials.a7_minutesworkoutapp.Splash"
+43-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:34:13-35
+44            android:exported="false"
+44-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:35:13-37
+45            android:theme="@style/Theme.AppCompat.NoActionBar" >
+45-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:36:13-63
+46            <meta-data
+46-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:29:13-31:36
+47                android:name="android.app.lib_name"
+47-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:30:17-52
+48                android:value="" />
+48-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:31:17-33
+49        </activity>
+50        <activity
+50-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:41:9-47:20
+51            android:name="eu.tutorials.a7_minutesworkoutapp.ResultActivity"
+51-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:42:13-43
+52            android:exported="false" >
+52-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:43:13-37
+53            <meta-data
+53-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:29:13-31:36
+54                android:name="android.app.lib_name"
+54-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:30:17-52
+55                android:value="" />
+55-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:31:17-33
+56        </activity>
+57        <activity
+57-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:48:9-54:20
+58            android:name="eu.tutorials.a7_minutesworkoutapp.TextToSpeach"
+58-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:49:13-41
+59            android:exported="false" >
+59-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:50:13-37
+60            <meta-data
+60-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:29:13-31:36
+61                android:name="android.app.lib_name"
+61-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:30:17-52
+62                android:value="" />
+62-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:31:17-33
+63        </activity>
+64        <activity
+64-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:55:9-61:20
+65            android:name="eu.tutorials.a7_minutesworkoutapp.ExerciseActivity"
+65-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:56:13-45
+66            android:exported="false" >
+66-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:57:13-37
+67            <meta-data
+67-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:29:13-31:36
+68                android:name="android.app.lib_name"
+68-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:30:17-52
+69                android:value="" />
+69-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:31:17-33
+70        </activity>
+71        <activity
+71-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:62:9-66:20
+72            android:name="eu.tutorials.a7_minutesworkoutapp.MainActivity"
+72-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:63:13-41
+73            android:exported="false" >
+73-->D:\Downloads\7MinutesWorkoutApp-135_Setting_up_the_ui\app\src\main\AndroidManifest.xml:64:13-37
+74        </activity>
+75    </application>
+76
+77</manifest>
